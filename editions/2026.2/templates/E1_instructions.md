@@ -27,9 +27,12 @@ e, dentro dela, criar o arquivo:
 
 `README.md`
 
+> [!IMPORTANT]
 > **O `README.md` da E1 deverá obrigatoriamente seguir a estrutura do [E1 Template](../templates/E1_template.md).**
 >
-> Copie o conteúdo do template para o `README.md` do projeto e substitua as orientações e campos indicados pelas informações específicas do seu projeto. **Não crie uma estrutura alternativa para a E1 e não remova as seções solicitadas no template.**
+> Copie o conteúdo do template para o `README.md` do projeto e substitua as orientações e campos indicados pelas informações específicas do seu projeto.
+>
+> **Não crie uma estrutura alternativa para a E1 e não remova as seções solicitadas no template.**
 
 O template orienta a descrição da **contextualização do projeto, problema de extensão, público de interesse, necessidades identificadas e proposta inicial**.
 
@@ -38,21 +41,61 @@ O `README.md` será o documento principal do projeto e **continuará sendo atual
 
 ## Organização do grupo no GitHub
 
-- Ao menos um(a) integrante do grupo deverá ter uma conta no GitHub e se responsabilizar pelas atualizações das informações do projeto de seu grupo.
-- Um(a) integrante deverá fazer um **fork** deste repositório.
-- Esse(a) integrante deverá adicionar os demais membros do grupo como colaboradores do fork.
-- No fork, o grupo deverá criar sua pasta de projeto em:
+O repositório oficial da disciplina para desenvolvimento e entrega dos projetos é:
 
-  `editions/2026.2/projects/<nome-do-projeto>/`
+**[teaching-FEEC/ext-ia-ciberseguranca](https://github.com/teaching-FEEC/ext-ia-ciberseguranca)**
 
-- Todo o material relacionado ao projeto deverá ser organizado dentro dessa pasta.
-- Os integrantes deverão realizar commits ao longo do desenvolvimento do trabalho.
+> [!IMPORTANT]
+> O **fork deverá ser criado a partir do repositório acima**.
+>
+> **Não crie um novo repositório independente para o projeto.**
+
+Para organizar o trabalho do grupo:
+
+1. Ao menos um(a) integrante do grupo deverá possuir uma conta no GitHub e se responsabilizar pela manutenção do fork e pelas atualizações das informações do projeto.
+
+2. Esse(a) integrante deverá fazer um **fork** do repositório oficial:
+
+   **[https://github.com/teaching-FEEC/ext-ia-ciberseguranca](https://github.com/teaching-FEEC/ext-ia-ciberseguranca)**
+
+3. O responsável pelo fork deverá adicionar os demais integrantes do grupo como colaboradores.
+
+4. No fork, o grupo deverá criar **uma única pasta para seu projeto** dentro de:
+
+   `editions/2026.2/projects/`
+
+   O resultado será:
+
+   `editions/2026.2/projects/<nome-do-projeto>/`
+
+5. O nome da pasta deverá ser um identificador **curto, mnemônico e estável** para o projeto. Ele não precisa reproduzir o título completo da atividade.
+
+   Utilize preferencialmente:
+
+   - letras minúsculas;
+   - palavras separadas por hífen (`-`);
+   - nenhum espaço, acento ou caractere especial;
+   - um nome suficientemente curto para ser utilizado como identificador do projeto.
+
+   O título completo e a descrição do projeto deverão constar no `README.md` do grupo, e não no nome da pasta.
+
+6. Todo o material produzido pelo grupo ao longo da disciplina deverá ser organizado dentro dessa pasta.
+
+7. Os integrantes deverão realizar commits ao longo do desenvolvimento do trabalho.
+
+> [!WARNING]
+> Durante toda a disciplina, o grupo deverá alterar **somente sua própria pasta de projeto**:
+>
+> `editions/2026.2/projects/<nome-do-projeto>/`
+>
+> Os demais arquivos e diretórios do repositório pertencem à estrutura oficial da disciplina e **não devem ser modificados**.
 
 
 
 ## Submissão da E1
 
-> **ATENÇÃO — alterações permitidas no repositório**
+> [!WARNING]
+> **Antes de abrir o Pull Request, verifique cuidadosamente as alterações realizadas no fork.**
 >
 > O grupo deverá modificar **exclusivamente o conteúdo localizado dentro da sua própria pasta de projeto**:
 >
@@ -60,37 +103,49 @@ O `README.md` será o documento principal do projeto e **continuará sendo atual
 >
 > **Não altere, mova ou remova nenhum arquivo ou diretório fora dessa pasta.**
 >
-> Alterações realizadas fora da pasta do projeto poderão gerar conflitos com o repositório da disciplina e **impedir o merge do Pull Request**. Pull Requests contendo alterações externas à pasta do projeto não serão aceitos enquanto essas alterações não forem removidas.
+> Alterações realizadas fora da pasta do projeto poderão gerar conflitos com o repositório da disciplina e **impedir o merge do Pull Request**.
+>
+> Pull Requests contendo alterações externas à pasta do projeto não serão aceitos enquanto essas alterações não forem removidas.
 
 Quando o material estiver pronto para submissão:
 
 - certifique-se de que todos os arquivos relacionados à E1 estejam atualizados no fork do grupo;
 - certifique-se de que o Pull Request não contenha nenhuma alteração fora de `editions/2026.2/projects/<nome-do-projeto>/`;
 - crie uma tag/release identificando a versão correspondente à E1;
-- até a data estabelecida para a entrega, abra um **Pull Request** para o repositório da disciplina.
+- abra um **Pull Request do fork do grupo para o repositório oficial da disciplina**:
+
+  **[teaching-FEEC/ext-ia-ciberseguranca](https://github.com/teaching-FEEC/ext-ia-ciberseguranca)**
+
+- o Pull Request deverá ter como destino a branch `main` do repositório oficial e ser aberto até a data estabelecida para a entrega.
 
 A identificação da versão da E1 deverá seguir o padrão:
 
 `2026.2_E1`
 
-> **Importante:** o Pull Request representa a submissão da entrega, enquanto a tag identifica a versão do projeto correspondente à E1.
-
+> [!IMPORTANT]
+> O **Pull Request** representa a submissão da entrega para o repositório da disciplina, enquanto a **tag/release** identifica, no fork do grupo, a versão do projeto correspondente à E1.
 
 
 ## Recursos de Apoio
 
 ### Markdown
 
-Não é necessário conhecimento avançado de Markdown para realizar as entregas. Para dúvidas sobre formatação, consulte:
+Não é necessário conhecimento avançado de Markdown para realizar as entregas.
+
+Para dúvidas sobre escrita e formatação, consulte:
 
 - [GitHub Docs — Sintaxe básica de escrita e formatação](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [GitHub Docs — Introdução à escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
-Recomenda-se utilizar um editor que permita visualizar o resultado do Markdown durante a edição. O Visual Studio Code possui suporte nativo para edição e visualização de arquivos Markdown, não sendo necessária a instalação de extensões para essa finalidade.
+Recomenda-se utilizar um editor que permita visualizar o resultado do Markdown durante a edição.
+
+O Visual Studio Code possui suporte nativo para edição e visualização de arquivos Markdown, não sendo necessária a instalação de extensões para essa finalidade.
 
 ### Git e GitHub
 
-Git e GitHub serão utilizados como ferramentas de organização, colaboração e versionamento do projeto. **Aprender Git não é um objetivo da disciplina.** Utilize o workflow indicado nestas instruções e consulte a documentação apenas quando necessário.
+Git e GitHub serão utilizados como ferramentas de organização, colaboração e versionamento do projeto.
+
+**Aprender Git não é um objetivo da disciplina.** Utilize o workflow indicado nestas instruções e consulte a documentação apenas quando necessário.
 
 Referências úteis:
 
