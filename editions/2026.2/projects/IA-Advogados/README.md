@@ -11,7 +11,7 @@
 | Ackson Fernando Cardoso de Almeida Pires | 193316  | Estatística |
 
 ## Proposta
-Foi pensado em realizar seminários sobre a mescla dos temas de IA e Cibersegurança no ambiente jurídico, para advogados e outros profissionais da área, com intuito de melhor direcionar o público-alvo à um bom uso dessas ferramentas. Assim, os  fazendo refletir sobre questões como “Qual o senso crítico de uma IA na tomada de decisão durante um processo jurídico? Há uma imparcialidade bem definida? O quanto suas tomadas de decisões são afetadas por quem a projetou/seu banco de dados? Em quais contexto sua negligência é a melhor opção?” 
+Em conjunto, o grupo pensou em realizar seminários sobre a mescla dos temas de IA e Cibersegurança no ambiente jurídico, para advogados e outros profissionais da área, com intuito de melhor direcionar o público-alvo à um bom uso dessas ferramentas. Assim, os  fazendo refletir sobre questões como “Qual o senso crítico de uma IA na tomada de decisão durante um processo jurídico? Há uma imparcialidade bem definida? O quanto suas tomadas de decisões são afetadas por quem a projetou/seu banco de dados? Em quais contexto sua negligência é a melhor opção?” 
 
 Além de seminários, pensamos em tornar a atividade mais interativa realizando uma simulação em que enviaremos um documento para algum serviço de IA e depois interagir com a plateia acerca de como os participantes se sentem em relação aos documentos contendo dados vulneráveis e gradualmente ir revelando questões como há um CPF, há dados médicos ou outras informações sensíveis, a ferramenta roda em uma conta pessoal, sabemos o destino dos dados ?
 Podemos pensar também sobre trabalhar conceitos de _prompt injection_ e como isso pode gerar vulnerabilidades no processo de automação.
