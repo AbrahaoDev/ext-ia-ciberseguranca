@@ -53,7 +53,8 @@ A realização em escritórios de advocacia. Em primeiro momento, gostaríamos d
 
 ### Recursos Necessários
 
-Produção de slides, confecção de folders, projetor, computador, local com acesso à internet, transporte (caso seja necessário chamar os profissionais) e reserva da sala da FEEC caso haja necessidade.
+- Produção de slides, confecção de folders, projetor, computador, local com acesso à internet, transporte (caso seja necessário chamar os profissionais) e reserva da sala da FEEC caso haja necessidade.
+- Pensar em certificação para o público.
 
 ### Desenvolvimento Prévio
 
