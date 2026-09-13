@@ -40,16 +40,6 @@ Imagina-se que a atividade vivenciada pelo público será baseada na realizaçã
 
 durante sua capacitação, abordando situações coriqueiras que estes já vivenciaram ou vivenciarão, para que assim faça sentido o aprendizado tido.
 
-> - o tipo de experiência: jogo, oficina, experimento, demonstração, narrativa, desafio, debate, produção coletiva etc.;
-> - a adequação da linguagem e das mídias ao público;
-> - histórias, situações, metáforas ou problemas que aproximem o tema da realidade dos participantes;
-> - oportunidades para tomar decisões, experimentar caminhos, cometer erros, levantar hipóteses ou questionar resultados;
-> - estímulo ao pensamento crítico e à autonomia, em vez da simples transmissão de informações;
-> - interação, colaboração ou troca entre os participantes.
->
-> **Exemplo:** em vez de simplesmente explicar quais características tornam uma mensagem suspeita de phishing, uma atividade poderia apresentar diferentes mensagens e pedir aos participantes que decidam quais parecem legítimas, justifiquem suas decisões e revejam seus critérios após a discussão. O conteúdo passa a ser trabalhado por meio de **decisão, experimentação, erro e reflexão**.
->
-> Não é necessário incorporar todos os elementos acima. Utilize aqueles que façam sentido para a proposta.
 
 ## Viabilidade e Planejamento Inicial
 
@@ -78,5 +68,4 @@ Desenvolvimento do senso crítico dos advogados quanto ao uso adequado e ético 
 ## Referências
 
 - Um dos membros do grupo é formado e atua como advogado. Ficamos intrigados em saber como a inteligência artificial tem sido aplicado no ramo e como está sendo feito o tratamento de dados dos clientes que necessitam desse tipo de serviço.
-- https://www.harvey.ai/contact-sales?utm_medium=sem&utm_source=google&utm_campaign=latam_eng_brand_harvey_search&utm_content=general&utm_term=harvey%20ai&hstk_creative=820242660911&hstk_campaign=23907277840&hstk_network=googleAds&gad_source=1&gad_campaignid=23907277840&gbraid=0AAAAA-XoO53Y_fgq7Crwa7h2VyXTgeYMA&gclid=Cj0KCQjwk5nVBhDiARIsAHNGqafo4lj9gaCADXlhL_fU6ph6fRjP9-CYasfOG37lYw79LvZifOOGuVEaAhYhEALw_wcB
   
