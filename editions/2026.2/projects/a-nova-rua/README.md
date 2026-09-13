@@ -61,7 +61,7 @@ Internet, computadores, projetores e som. Avalia-se o uso de câmeras para filma
 
 ### Desenvolvimento Prévio
 
-Deveram ser produzidos previamente:
+Devem ser produzidos previamente:
  - Um roteiro para a oficina;
  - Uma apresentação em slides como guia de discussões;
  - Uma cartilha ou formulário com questões sobre decisões a serem tomadas frente a possíveis golpes virtuais. 
