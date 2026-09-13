@@ -36,9 +36,7 @@ Capacitar os profissionais para o usufruto adequado da IA em suas aplicações p
 
 ## Concepção da Experiência
 
-Imagina-se que a atividade vivenciada pelo público será baseada na realização de seminários dinâmicos, tais quais serão interativos do ponto de vista de contato entre o público e o aprendizado acerca da utilização das ferramentas - ou seja, prioriza-se o estímulo à autonomia dos participantes, visando que estes melhor compreendam e desenvovam um senso critico quanto a aplicação das tecnologias no contexto profissional. A priori, durante tais oficinas pretende-se realizar a explicação técnica e teórica dos principais conceitos que serão introduzidos ao público, expondo-os ao contexto de IA e cibersegurança de maneira direta e pouco densa, para assim, os expormos à problemáticas reais do cotidiano de trabalho. 
-
-durante sua capacitação, abordando situações coriqueiras que estes já vivenciaram ou vivenciarão, para que assim faça sentido o aprendizado tido.
+Imagina-se que a atividade vivenciada pelo público será baseada na realização de seminários dinâmicos, tais quais serão interativos do ponto de vista de contato entre o público e o aprendizado acerca da utilização das ferramentas - ou seja, prioriza-se o estímulo à autonomia dos participantes, visando que estes melhor compreendam e desenvovam um senso critico quanto a aplicação das tecnologias no contexto profissional. A priori, durante tais oficinas pretende-se realizar a explicação técnica e teórica dos principais conceitos que serão introduzidos ao público, expondo-os ao contexto de IA e cibersegurança de maneira direta e pouco densa, para assim, os expormos à problemáticas reais do cotidiano de trabalho durante sua capacitação, abordando situações coriqueiras que estes já vivenciaram ou vivenciarão, para que assim faça sentido o aprendizado tido.
 
 
 ## Viabilidade e Planejamento Inicial
