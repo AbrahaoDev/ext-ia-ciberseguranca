@@ -77,6 +77,6 @@ Desenvolvimento do senso crítico dos advogados quanto ao uso adequado e ético 
 
 ## Referências
 
-Um dos membros do grupo é formado e atua como advogado. Ficamos intrigados em saber como a inteligência artificial tem sido aplicada no ramo e como está sendo feito o tratamento de dados dos clientes que necessitam desse tipo de serviço.
-
 - Um dos membros do grupo é formado e atua como advogado. Ficamos intrigados em saber como a inteligência artificial tem sido aplicado no ramo e como está sendo feito o tratamento de dados dos clientes que necessitam desse tipo de serviço.
+- https://www.harvey.ai/contact-sales?utm_medium=sem&utm_source=google&utm_campaign=latam_eng_brand_harvey_search&utm_content=general&utm_term=harvey%20ai&hstk_creative=820242660911&hstk_campaign=23907277840&hstk_network=googleAds&gad_source=1&gad_campaignid=23907277840&gbraid=0AAAAA-XoO53Y_fgq7Crwa7h2VyXTgeYMA&gclid=Cj0KCQjwk5nVBhDiARIsAHNGqafo4lj9gaCADXlhL_fU6ph6fRjP9-CYasfOG37lYw79LvZifOOGuVEaAhYhEALw_wcB
+  
