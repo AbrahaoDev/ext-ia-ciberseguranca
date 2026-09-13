@@ -12,7 +12,7 @@
 
 ## Proposta
 
-Foi pensado em realizar seminários sobre a mescla dos temas de IA e Cibersegurança no ambiente jurídico, para advogados e outros profissionais da área, com intuito de melhor direcionar o público-alvo à um bom uso dessas ferramentas. Assim, os  fazendo refletir sobre questões como “Qual o senso crítico de uma IA na tomada de decisão durante um processo jurídico? Há uma imparcialidade bem definida? O quanto suas tomadas de decisões são afetadas por quem a projetou/seu banco de dados? Em quais contexto sua negligência é a melhor opção?”. 
+Foi pensado em realizar seminários sobre a mescla dos temas de IA e Cibersegurança no ambiente jurídico, para advogados e outros profissionais da área, com intuito de melhor direcionar o público-alvo à um bom uso dessas ferramentas. Assim, os  fazendo refletir sobre questões como “Qual o senso crítico de uma IA na tomada de decisão durante um processo jurídico? Há uma imparcialidade bem definida? O quanto suas tomadas de decisões são afetadas por quem a projetou/seu banco de dados? Em quais contexto sua negligência é a melhor opção? Como advogados estão incorporando IA generativa ao trabalho jurídico e ao atendimento de clientes, e até que ponto compreendem os riscos técnicos, éticos e de proteção de dados associados a esse uso?”. 
 
 
 ## Problema e Contexto
