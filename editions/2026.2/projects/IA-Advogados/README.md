@@ -17,16 +17,16 @@ Foi pensado em realizar seminários sobre a mescla dos temas de IA e Cibersegura
 
 ## Problema e Contexto
 
-O meio judicial está permeado de relações humanas, tais quais entram em conflito para beneficiar o interesse de si próprio. Assim, sistemas tecnológicos quando bem utilizados podem servir como ferramenta de apoio para intermediar de maneira sistemática tais conflitos, por meio da otimização do processamento de documentos jurídicos, melhorar o entendimento das requisições dos clientes e etc. Em resumo, conectar IA e cibersegurança é de extrema importância não só para quem as usa, mas para a sociedade que ficará sujeita de qualquer maneira ao uso de tecnologias em processos jurídicos. Ou seja, é necessário que os profissionais tenham capacidade de fazer uma utilização coerente dessas ferramentas.
+O meio judicial está permeado de relações humanas, tais quais entram em conflito para beneficiar o interesse de si próprio. Assim, sistemas tecnológicos quando bem utilizados podem servir como ferramenta de apoio para intermediar de maneira sistemática tais conflitos, por meio da otimização do processamento de documentos jurídicos, melhorar o entendimento das requisições dos clientes e etc. Em resumo, conectar IA e cibersegurança é de extrema importância não só para quem as usa, mas para a sociedade que ficará sujeita de ao uso de tecnologias em processos judiciais. Ou seja, é necessário que os profissionais tenham capacidade de fazer uma utilização coerente dessas ferramentas.
 
 ## Público
 
-A atividade será desenvolvida para profissionais do ambiente jurídico, especificamente advogados. Foi escolhido esse grupo por conta dos seguinte motivos: Conhecimento técnico profundo sobre a legislação e carência em habilidades que envolvem o meio digital; visão estratégica e atualização constante; ética profissional e utilização de ferramentas para otimização de processos. Além disso, um membro do grupo é graduado em direito e sugeriu abordarmos a temática à este público, visto que devido sua experiência própria, há uma ausência de uma boa implementação da tecnologia neste contexto e para estes profissionais.
+A atividade será desenvolvida para profissionais do ambiente jurídico, especificamente advogados. Em suma, foi identificado que o público escolhido, possui, de modo geral, conhecimento técnico profundo sobre a legislação e carência em habilidades que envolvem o meio digital; visão estratégica e atualização constante; ética profissional e utilização de ferramentas para otimização de processos. Além disso, um membro do grupo é graduado em direito e sugeriu abordarmos a temática à este público, visto que devido sua experiência própria, há uma ausência de uma boa implementação da tecnologia neste contexto e boa capacitação para tais profissionais.
 
 
 ### Objetivo Geral
 
-Capacitar os profissionais para o usufruto adequado da IA em suas aplicações profissionais. Além de conscientizá-los quanto ao uso seguro dos dados de seus clientes.
+Capacitar os profissionais para o usufruto adequado da IA em suas aplicações profissionais, além de conscientizá-los quanto ao uso seguro dos dados de seus clientes.
 
 ### Objetivos Específicos
 
@@ -36,10 +36,10 @@ Capacitar os profissionais para o usufruto adequado da IA em suas aplicações p
 
 ## Concepção da Experiência
 
-> Descreva como vocês imaginam, neste momento, que a atividade será vivenciada pelo público. O formato ainda pode ser refinado nas próximas entregas.
->
-> Considere, quando pertinente:
->
+Imagina-se que a atividade vivenciada pelo público será baseada na realização de seminários dinâmicos, tais quais serão interativos do ponto de vista de contato entre o público e o aprendizado acerca da utilização das ferramentas - ou seja, prioriza-se o estímulo à autonomia dos participantes, visando que estes melhor compreendam e desenvovam um senso critico quanto a aplicação das tecnologias no contexto profissional. A priori, durante tais oficinas pretende-se realizar a explicação técnica e teórica dos principais conceitos que serão introduzidos ao público, expondo-os ao contexto de IA e cibersegurança de maneira direta e pouco densa, para assim, os expormos à problemáticas reais do cotidiano de trabalho. 
+
+durante sua capacitação, abordando situações coriqueiras que estes já vivenciaram ou vivenciarão, para que assim faça sentido o aprendizado tido.
+
 > - o tipo de experiência: jogo, oficina, experimento, demonstração, narrativa, desafio, debate, produção coletiva etc.;
 > - a adequação da linguagem e das mídias ao público;
 > - histórias, situações, metáforas ou problemas que aproximem o tema da realidade dos participantes;
