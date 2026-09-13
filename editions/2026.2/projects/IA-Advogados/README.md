@@ -61,7 +61,7 @@ A realização em escritórios de advocacia. Em primeiro momento, gostaríamos d
 
 ### Recursos Necessários
 
-Produção de slides, confecção de folders, projetor, computador, transporte caso necessário, reserva da sala da FEEC caso haja necessidade.
+Produção de slides, confecção de folders, projetor, computador, local com acesso à internet, transporte (caso seja necessário chamar os profissionais) e reserva da sala da FEEC caso haja necessidade.
 
 ### Desenvolvimento Prévio
 
@@ -69,7 +69,7 @@ Materiais gráficos, como banners e slides.
 
 ### Desafios
 
-Logística, contato com o público embora um dos membros do grupo tenha contato com a OAB.
+Logística e entrar em contato com o público-alvo, embora um dos membros do grupo tenha contato com a OAB.
 
 ## Resultados Esperados
 
