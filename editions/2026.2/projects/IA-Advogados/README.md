@@ -67,5 +67,6 @@ Desenvolvimento do senso crítico dos advogados quanto ao uso adequado e ético 
 
 ## Referências
 
-- Um dos membros do grupo é formado e atua como advogado. Ficamos intrigados em saber como a inteligência artificial tem sido aplicado no ramo e como está sendo feito o tratamento de dados dos clientes que necessitam desse tipo de serviço.
+- [Documento completo da Recomendação 001/2024 da OAB] — Recomendação nº 001/2024 sobre IA generativa na prática jurídica. Trata explicitamente de LGPD, confidencialidade, sigilo profissional, revisão humana, alucinações, treinamento, transparência com clientes e **chatbots de atendimento**. A OAB recomenda que chatbots não executem atividades privativas da advocacia e que o interlocutor saiba que está falando com uma máquina. Também recomenda avaliar fornecedor, política de privacidade e uso dos dados para treinamento. Disponível em: (https://s.oab.org.br/arquivos/2024/11/80a03f8d-e4cb-4bac-a3ea-357009f77d3f.pdf?utm_source=chatgpt.com). 
+
   
