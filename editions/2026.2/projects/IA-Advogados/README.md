@@ -57,7 +57,7 @@ Produção de slides, confecção de folders, projetor, computador, local com ac
 
 ### Desenvolvimento Prévio
 
-Materiais gráficos, como banners e slides.
+Materiais gráficos, como banners, slides e confecção de documentos para testes na IA e dinâmica com o público.
 
 ### Desafios
 
