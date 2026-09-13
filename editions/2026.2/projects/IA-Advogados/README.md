@@ -43,7 +43,7 @@ durante sua capacitação, abordando situações coriqueiras que estes já viven
 
 ## Viabilidade e Planejamento Inicial
 
-> Faça uma primeira avaliação das condições reais para executar a proposta. Não é necessário apresentar na E1 um planejamento operacional completo.
+Há uma viabilidade efetiva da realização dos seminários propostos inicialmente pelo grupo, visto que um dos membros tem contato com o público escolhido.
 
 ### Contexto de Realização
 
