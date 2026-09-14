@@ -12,9 +12,10 @@
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| `<Nome completo>` | `<RA>` | `<Curso>` |
-| `<Nome completo>` | `<RA>` | `<Curso>` |
-| `<Nome completo>` | `<RA>` | `<Curso>` |
+| `João Vitor Abrahão de Moraes` | `205903` | `Sistemas de Informação` |
+| `Gabriel Pedroso Duarte` | `256951` | `<Curso>` |
+| `Alexandre Alvim` | `242583` | `<Curso>` |
+| `Rafael de Castro Brancaglion` | `248760` | `<Curso>` |
 
 ## Proposta
 
