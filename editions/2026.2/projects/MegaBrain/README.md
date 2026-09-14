@@ -11,7 +11,7 @@
 
 ## Proposta
 
-`A atividade proposta se concentra em IA. Portanto, a ideia dessa atividade é ensinar e explicar sucintamente como funciona as IAs e a partir disso desenvolver um problema ou um jogo que servirá justamente para tratar melhor a relação de alunos com a IA, desenvolvendo ainda melhor e capacitando eles nesse quesito.
+`A atividade proposta se concentra em IA. Portanto, a ideia dessa atividade é ensinar e explicar sucintamente como funcionam as IAs e a partir disso desenvolver um problema ou um jogo que servirá justamente para tratar melhor a relação de alunos com a IA, desenvolvendo ainda melhor e capacitando eles nesse quesito.
 `
 
 ## Problema e Contexto
@@ -31,7 +31,7 @@
 
 ### Objetivos Específicos
 
-- `O principal objetivo é mostrar aos alunos que a IA pode ser uma ferramente extremamente util em diversas atividades, seja para aprender conteudos da escola, estudar para o vestibular ou até mesmo estudo de linguas. Queremos que eles passem a usar a IA de maneira inteligente no dia a dia.`
+- `O principal objetivo é mostrar aos alunos que a IA pode ser uma ferramenta extremamente útil em diversas atividades, seja para aprender conteúdos da escola, estudar para o vestibular ou até mesmo estudo de línguas. Queremos que eles passem a usar a IA de maneira inteligente no dia a dia.`
 - `Temos também por objetivo levá-los a uma reflexão sobre o futuro da IA no mercado. Queremos que eles adotem a mentalidade de que a IA é uma ferramenta a serviço deles, não para substituí-los.`
 
 ## Concepção da Experiência
@@ -57,23 +57,13 @@
 
 ### Desafios
 
-`Caso a escola não se planeje adequadamente, pode ocorrer que os laboratórios de informática não estejam disponiveis.`
+`Caso a escola não se planeje adequadamente, pode ocorrer que os laboratórios de informática não estejam disponíveis.`
 
 ## Resultados Esperados
 
-> Que transformação, aprendizado, reflexão ou experiência vocês esperam proporcionar?
->
-> Como seria possível perceber se a atividade atingiu seus principais objetivos? Não é necessário definir ainda um método formal de avaliação, mas evite resultados vagos como “conscientizar o público” sem explicar **o que poderia mudar, ser percebido ou demonstrado**.
-
-`<Descreva aqui os resultados esperados e possíveis evidências de que os objetivos foram alcançados.>`
+`Queremos que os alunos vejam a IA não como uma ferramenta de "cola", mas uma ferramenta de aprendizado e que percebam as mudanças no mundo, sobretudo no mercado de trabalho, que irão vir nos próximos anos. Pretendemos fazer um breve questionário no final questionando sobre as utilidades da IA que eles descobriram e estão aplicando nos seus estudos.`
 
 ## Referências
 
-> Liste as fontes que contribuíram para a proposta: artigos científicos, livros, materiais educacionais, sites institucionais, projetos de extensão, experiências semelhantes ou outras fontes relevantes.
->
-> Procure incluir referências que fundamentem tanto **o problema e sua relevância para o público** quanto **as escolhas feitas para a atividade**.
->
-> Não é necessária uma revisão bibliográfica extensa na E1.
-
-- `<Referência 1>`
-- `<Referência 2>`
+- ``
+- ``
