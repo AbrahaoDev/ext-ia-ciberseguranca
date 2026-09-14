@@ -25,7 +25,8 @@
 >
 > Neste momento, não é necessário descrever todos os detalhes. Uma pessoa que ainda não conhece o projeto deve conseguir compreender rapidamente **o que está sendo proposto e para quem**.
 
-`<Apresente aqui a síntese da proposta.>`
+`A atividade proposta se concentra em IA. Portanto, a ideia dessa atividade é ensinar e explicar sucintamente como funciona as IAs e a partir disso desenvolver um problema ou um jogo que servirá justamente para tratar melhor a relação de alunos com a IA, desenvolvendo ainda melhor e capacitando eles nesse quesito.
+`
 
 ## Problema e Contexto
 
@@ -35,7 +36,7 @@
 >
 > Evite justificativas genéricas como “IA é importante atualmente” ou “cibersegurança é um tema cada vez mais relevante”. Procure explicar **por que determinado aspecto desse tema é relevante no contexto e para o público escolhidos**.
 
-`<Apresente aqui o problema, sua motivação e seu contexto.>`
+`O tema é importante pois já faz parte do dia a dia dos estudantes, no entanto é na maioria das vezes utilizada para buscas simples e para cópias de respostas. A motivação inicial surge da ideia de promover o uso das IAs como ferramenta de auxílio para aprendizagem. O tema é de relevância social e individual pois incentiva os jovens a utilizarem essas novas tecnologias de forma produtiva no ambiente educacional e a desenvolverem o pensamento crítico.`
 
 ## Público
 
@@ -47,7 +48,8 @@
 >
 > **Exemplo:** uma atividade sobre golpes digitais destinada a pessoas idosas provavelmente exigirá escolhas de linguagem, situações e formas de interação diferentes de uma atividade sobre o mesmo tema destinada a estudantes do Ensino Médio. A definição do público deve influenciar a concepção da atividade, e não aparecer apenas como uma informação descritiva.
 
-`<Caracterize aqui o público e justifique sua escolha.>`
+`O público escolhido foi o do ensino médio. Uma característica de tal público é a familiaridade com a tecnologia, o que facilita a comunicação. A escolha foi motivada principalmente pela oportunidade de ajudar jovens que estão se preparando para o vestibular sobre como utilizar a tecnologia a seu favor e não ser apenas dependente dela.
+`
 
 ## Objetivos
 
@@ -57,7 +59,7 @@
 >
 > Evite definir o objetivo apenas pelo artefato que será produzido. “Produzir um jogo”, “fazer um vídeo” ou “desenvolver um aplicativo” descrevem possíveis **meios**, e não necessariamente o objetivo da atividade de extensão.
 
-`<Apresente aqui o objetivo geral.>`
+`O objetivo geral é capacitar os alunos na utilização das IAs, ensinando-os a utilizarem melhor esses programas, além dos usos mais cotidianos, como a resposta de perguntas simples.`
 
 ### Objetivos Específicos
 
@@ -65,9 +67,9 @@
 >
 > Procure expressar o que se espera que os participantes possam **compreender, experimentar, questionar, reconhecer, discutir ou desenvolver**.
 
-- `<Objetivo específico 1>`
-- `<Objetivo específico 2>`
-- `<Objetivo específico 3>`
+- `O principal objetivo é mostrar aos alunos que a IA pode ser uma ferramente extremamente util em diversas atividades, seja para aprender conteudos da escola, estudar para o vestibular ou até mesmo estudo de linguas. Queremos que eles passem a usar a IA de maneira inteligente no dia a dia.`
+- `Temos também por objetivo levá-los a uma reflexão sobre o futuro da IA no mercado. Queremos que eles adotem a mentalidade de que a IA é uma ferramenta a serviço deles, não para substituí-los.`
+
 
 ## Concepção da Experiência
 
