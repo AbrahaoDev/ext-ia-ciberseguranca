@@ -40,7 +40,6 @@
 
 ## Viabilidade e Planejamento Inicial
 
-> Faça uma primeira avaliação das condições reais para executar a proposta. Não é necessário apresentar na E1 um planejamento operacional completo.
 ` O que temos em mente não demanda muitas necessidades materiais, então parece ser viavel. `
 
 ### Contexto de Realização
