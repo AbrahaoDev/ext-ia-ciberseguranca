@@ -1,4 +1,4 @@
-# `<Título do Projeto>`
+# `MegaBrain`
 
 > Substitua pelo título do projeto. O título deve comunicar a proposta de maneira clara e, quando apropriado, despertar o interesse do público escolhido.
 >
