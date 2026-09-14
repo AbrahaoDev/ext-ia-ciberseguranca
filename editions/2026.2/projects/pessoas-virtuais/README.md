@@ -1,14 +1,14 @@
-# Como não cair em Golpes Digitais
-
-> Título provisório.
+# Como não cair em Golpes Virtuais
 
 ## Equipe
 
 | Nome | RA | Curso |
 | --- | --- | --- |
-| `<Nome completo>` | `<RA>` | `<Curso>` |
-| `<Nome completo>` | `<RA>` | `<Curso>` |
-| `<Nome completo>` | `<RA>` | `<Curso>` |
+| Wilian Hideki Watanabe | 195596 | Matemática Aplicada |
+| Rodrigo Banin Ferraz de Camargo | 238257 | Engenharia de Computação |
+| Bernardo Gomes de Moraes | 258372 | Engenharia Elétrica |
+| Gabriel Vioti | 220465 | Engenharia Elétrica |
+| Athos Estevam Zamboni | 244674 | Engenharia Elétrica |
 
 ## Proposta
 
