@@ -101,14 +101,12 @@ Temos como alternativa outros contatos de escola, no caso de não conseguirmos f
 
 ### Materiais a Desenvolver
 
-- Powerpoint de apresentação
-- Questionário de satisfação
-- Problemas de prompt da dinâmica
+- Troféus.
   
 ### Recursos para a Aplicação
 
 - Computadores com conexão a internet e web browsers
-- Premiação para os grupos (doces)
+- Premiação para os grupos (troféus e doces)
 
 ### Testes Necessários
 
