@@ -11,7 +11,8 @@
 
 ## Proposta
 
-A atividade proposta se concentra em IA e será apresentada para estudantes do ensino médio. Portanto, a ideia dessa atividade é ensinar e explicar sucintamente como funcionam as IAs e relacioná-las com os vestibulares, tendo em vista a sua elevada importância para esses estudantes. Após essa explicação e apresentação será proposto uma atividade (Explicar melhor o que será essa atividade), que irá focar em apresentar as grandes diferenças entre um uso efetivo das IAs e um pior uso dessas inteligências (Debater um pouco mais.
+A atividade proposta se concentra em IA e será apresentada para estudantes do ensino médio. Portanto, a ideia dessa atividade é ensinar e explicar sucintamente como funcionam as IAs e relacioná-las com os vestibulares, tendo em vista a sua elevada importância para esses estudantes. Após essa explicação e apresentação será proposto uma atividade, que irá focar em apresentar as grandes diferenças entre um uso efetivo das IAs e um pior uso dessas inteligências. A atividade consistirá basicamente em pedir para que os alunos criem, com auxílio de alguma IA, um site que o auxiliem nos estudos para o vestibular, contendo simulados e outras ferramentas úteis. 
+
 
 ## Problema e Contexto
 
@@ -43,9 +44,9 @@ Planejamos uma dinâmica onde os alunos terão que construir alguma coisa utiliz
 
 | Etapa | Duração | Atividade | Participação do público | Recursos |
 | --- | ---: | --- | --- | --- |
-| Apresentação | 15 minutos | Apresentar slides sobre o assunto | Escutar com atenção | PowerPoint |
-| Dinâmica |  |  |  |  |
-| Avaliação | 5 minutos |  | Responder o formulário | Forms do Google |
+| Apresentação | 20 minutos | Apresentar slides sobre o assunto | Escutar com atenção | PowerPoint |
+| Dinâmica | 30 minutos | Desenvolver com eles sites para o estudo dos vestibulares | Uso das IAs para o desenvolvimento de sites | Computador e internet |
+| Avaliação | 10 minutos | Entrega do formulário para autoavaliação | Responder o formulário | Forms do Google |
 
 **Duração total estimada:** 1 hora
 
@@ -69,10 +70,10 @@ Temos como alternativa outros contatos de escola, no caso de não conseguirmos f
 
 | Entregável / Resultado | Tarefa | Responsável(is) | Prazo | Situação |
 | --- | --- | --- | --- | --- |
-| Apresentação | Powerpoint | Gabriel | 2/10 | Não iniciada |
-| Questionário | Forms | Alexandre | 2/10 | Não iniciada |
+| Apresentação | Powerpoint | Gabriel | 20/10 | Finalizada (https://canva.link/w1yrfq602zr27y2) |
+| Questionário | Forms | Alexandre | 2/10 | Finalizada (https://docs.google.com/forms/d/1HHTFCWlt8LJ_0RReB8EH0XrILE7WzRGQGrsBViEdiEE/edit) |
 | Definição da data e do número de pessoas | Contato com a escola | João Vitor | 8/10 | Não iniciada |
-| Dinâmica | Criação dos problemas de prompt | Rafel | 8/10 | Não iniciada |
+| Dinâmica | Criação dos sites | Rafel | 8/10 | Não iniciada |
 
 ### Dependências Críticas
 
