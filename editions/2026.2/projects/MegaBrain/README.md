@@ -64,7 +64,7 @@ Completo.
 
 ### Alternativas e Contingências
 
-Temos como alternativa outros contatos de escola, no caso de não conseguirmos fazer na inicial. Caso não tenha computadores ou não seja possível utilizar o laboratório de informática da escola, vamos levar os chromebooks (um por grupo) para que eles façam a dinâmica, se isso também não for possível, vamos adaptar a dinâmica para que seja possível realizá-la com um ou dois computadores no nosso grupo.
+Temos como alternativa outros contatos de escola, no caso de não conseguirmos fazer na inicial. Caso não tenha computadores ou não seja possível utilizar o laboratório de informática da escola, vamos levar os chromebooks (um por grupo) para que eles façam a dinâmica, se isso também não for possível, vamos adaptar a dinâmica para que seja possível realizá-la com um ou dois computadores no nosso grupo. 
 
 ## Plano de Desenvolvimento
 
