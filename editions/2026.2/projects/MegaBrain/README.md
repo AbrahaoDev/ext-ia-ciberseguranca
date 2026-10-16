@@ -72,8 +72,8 @@ Temos como alternativa outros contatos de escola, no caso de não conseguirmos f
 | --- | --- | --- | --- | --- |
 | Apresentação | Powerpoint | Gabriel | 20/10 | Finalizada (https://canva.link/w1yrfq602zr27y2) |
 | Questionário | Forms | Alexandre | 2/10 | Finalizada (https://docs.google.com/forms/d/1HHTFCWlt8LJ_0RReB8EH0XrILE7WzRGQGrsBViEdiEE/edit) |
-| Definição da data e do número de pessoas | Contato com a escola | João Vitor | 8/10 | Não iniciada |
-| Dinâmica | Criação dos sites | Rafel | 8/10 | Não iniciada |
+| Definição da data e do número de pessoas | Contato com a escola | João Vitor | 8/10 | Finalizado |
+| Dinâmica | Criação dos sites | Rafel | 8/10 | Finalizado |
 
 ### Dependências Críticas
 
