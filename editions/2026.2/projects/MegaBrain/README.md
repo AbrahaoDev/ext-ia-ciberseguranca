@@ -54,13 +54,13 @@ Planejamos uma dinâmica onde os alunos terão que construir alguma coisa utiliz
 
 ### Articulação para a Primeira Aplicação
 
-- **Público previsto:** 1° e 2° anos do ensino médio
+- **Público previsto:** 2° e 3° anos do ensino médio.
 - **Contexto de aplicação:** Escolas do ensino médio (SESI, SENAI)
-- **Número estimado de participantes:** 40 por turma (No máximo)
-- **Período previsto:** Terceira semana de outubro (Conforme disponibilidade da escola)
+- **Número estimado de participantes:** 32 por turma, 3 turmas no total.
+- **Período previsto:** 23/10 às 13:30 até 16:30
   
 **Estado atual da articulação:**  
-Estamos lapidando a nossa dinâmica e definindo datas e horários.
+Completo.
 
 ### Alternativas e Contingências
 
