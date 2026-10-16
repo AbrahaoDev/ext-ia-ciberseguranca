@@ -49,7 +49,7 @@ Planejamos uma dinâmica onde os alunos terão que construir alguma coisa utiliz
 | Avaliação | 10 minutos | Entrega do formulário para autoavaliação | Responder o formulário | Forms do Google |
 
 **Duração total estimada:** 1 hora
-##Dinâmica
+## Dinâmica
 - Dividir os alunos em grupos
 - Encontrar erros nas resoluções da IA (Durante a apresentação) 
 - Apresentar diferentes prompts e questioná-los sobre qual é mais efetivo e colocar eles para testarem na prática.
