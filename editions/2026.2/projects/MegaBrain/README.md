@@ -49,6 +49,22 @@ Planejamos uma dinâmica onde os alunos terão que construir alguma coisa utiliz
 | Avaliação | 10 minutos | Entrega do formulário para autoavaliação | Responder o formulário | Forms do Google |
 
 **Duração total estimada:** 1 hora
+##Dinâmica
+- Dividir os alunos em grupos
+- Encontrar erros nas resoluções da IA (Durante a apresentação) 
+- Apresentar diferentes prompts e questioná-los sobre qual é mais efetivo e colocar eles para testarem na prática.
+- A principal atividade será focada no desenvolvimento de um site que possa auxiliá-los nos estudos do vestibular. 
+- A votação do melhor site será realizada pelos próprios alunos participantes.
+- Critério de avaliação:
+	- Simulado funciona de maneira efetiva (Não cicla as mesmas questões)
+	- Estética do site
+	- Se possui ou não revisão de matérias
+	- Se a questão corrigida está corrigida de maneira correta
+	- Verificação de dados corretos ou não
+	- Avaliar a criatividade
+	- Não focar somente no vestibular, mas em algo que envolve aprendizado
+- Prêmio: Troféu impresso por uma impressora 3d e doces.
+
 
 ## Planejamento da Primeira Aplicação
 
